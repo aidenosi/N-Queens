@@ -1,12 +1,6 @@
 
 import java.util.*;
 
-/*
- * Aiden Osipenko
- * 5853874
- * October 17th, 2017
- * COSC 3P71 Assignment 1
- */
 public final class nQueens {
 
     public static int n;
